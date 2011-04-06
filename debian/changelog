@@ -1,4 +1,10 @@
-rufus-mnemo (1.2.0-1) UNRELEASED; urgency=low
+ruby-rufus-mnemo (1.2.0-2) unstable; urgency=low
+
+  * Update gem2deb to 0.2.1
+
+ -- David Greaves <david@dgreaves.com>  Wed, 06 Apr 2011 21:08:42 +0100
+
+ruby-rufus-mnemo (1.2.0-1) UNRELEASED; urgency=low
 
   * Initial release based on gem2deb
 
